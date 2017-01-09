@@ -32,3 +32,19 @@ La structure des fichiers gbm,glmnet,randomforest,rpart et xgboost est la même,
 * un .r qui est lui executable sur R studio
 * un .Rdata qui est la sauvegarde du model calculé car les script mettent relativement longtemps à les generer, (il suffit de load(* .rdata) pour l'utiliser)
 * un .csv qui correspond à la réponse du model au fichier de validation
+
+# Rapport du projet Machine learning
+
+
+## Data exploitation
+
+### Data visualisations
+### Data Cleaning
+### Data Expanding
+
+## Les differents algorithmes utilisés ainsi que leurs resultats
+### rpart
+### gbm
+### randomforest
+### xgboost
+### glmnet
