@@ -44,10 +44,10 @@ Le but de ce projet est de creer des modeles de prediction sur un jeu de donnée
 Une premiere approche de la visualisations de donnée à été effectuée sur du Python "/data_processing/Exploration data python.ipynb", je n'ai pas plus poussé que ça cette partie la car je ne savais pas encore qu'est ce qu'il fallait observer mais j'ai pu obtenir des resultats de ce genre :
 
  * Observation de la repartition du nombre de target à 1 ou 0 selon la feature "Product_Info_2" et "Medical_Keyword_20"
- [!distrib](/screenshots/screen1.png)
+![distrib](/screenshots/screen1.png)
 
 N'ayant pas trop d'idées sur la visualisations des données, je suis passé sur R pour relever les informations que j'estimais importante dans le plan d'action que j'avais en tête, et j'ai récuperé les informations suivantes :
-[!data.informations](/screenshots/screen2.png)
+![data.informations](/screenshots/screen2.png)
 
 On peut y voir le :
  * nom de la feature
@@ -179,8 +179,8 @@ En voici quelques uns :
 
 Voici quelques screenshot que j'ai pu trouver sur internet qui vont permettre de bien regler son xgboost :
 
-[!alt1](screenshots/screen3.png)
-[!alt2](screenshots/screen4.png)
+![alt1](screenshots/screen3.png)
+![alt2](screenshots/screen4.png)
 
 ## Conclusion
 
